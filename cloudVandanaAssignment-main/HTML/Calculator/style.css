@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 .displayCal{
-    
+   
     width: 100%;
 }
 .calculator {
@@ -40,8 +40,8 @@ button {
 }
 
 button.operator {
-    background: rgb(160, 88, 88);
-    font-size: 15px;
+    background: rgb(89, 88, 88);
+    font-size: 20px;
     
 }
 
@@ -49,5 +49,5 @@ button.equals {
     color: #fff;
 }
 #clear{
-    background-color: grey;
+    background: rgb(0, 134, 116);
 }
